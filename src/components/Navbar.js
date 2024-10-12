@@ -16,8 +16,6 @@ import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 import "./Navbar.css";
 import { Button } from "./Button";
 
-//TODO: Fix mobile menu bottom justified
-
 function Navbar() {
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
