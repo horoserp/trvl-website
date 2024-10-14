@@ -1,7 +1,7 @@
 {
   "name": "trvl-website",
   "version": "0.1.0",
-  "homepage": "https://horoserp.github.io/trvl-website",
+  "homepage": "https://horoserp.github.io/trvl-website/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
