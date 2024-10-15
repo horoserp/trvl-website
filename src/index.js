@@ -27,3 +27,6 @@ export default function App() {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
+
+// TODO: Resize h1 on pages to fit for mobile (e.g. "PRODUCTS")
+// TODO: Load to top of page when moving pages
