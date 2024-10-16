@@ -42,3 +42,11 @@
   color: #fff;
   font-size: 100px;
 }
+
+@media screen and (max-width: 820px) {
+  .products,
+  .services,
+  .sign-up {
+    font-size: 50px;
+  }
+}
