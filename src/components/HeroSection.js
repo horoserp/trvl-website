@@ -17,6 +17,7 @@ function HeroSection() {
           className="btns"
           buttonStyle="btn--outline"
           buttonSize="btn--large"
+          onClick={() => window.scrollTo(0, 0)}
         >
           GET STARTED
         </Button>
@@ -24,6 +25,7 @@ function HeroSection() {
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
+          onClick={() => window.scrollTo(0, 0)}
         >
           WATCH TRAILER <FontAwesomeIcon icon={faCirclePlay} />
         </Button>
