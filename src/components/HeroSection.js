@@ -30,6 +30,7 @@ function HeroSection() {
           WATCH TRAILER <FontAwesomeIcon icon={faCirclePlay} />
         </Button>
       </div>
+      <h4 className="scroll">SCROLL DOWN FOR MORE!</h4>
     </div>
   );
 }
