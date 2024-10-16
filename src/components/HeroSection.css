@@ -49,7 +49,7 @@ video {
 .scroll {
   color: #fff;
   position: absolute;
-  bottom: 10vh;
+  bottom: 15vh;
 }
 
 @media screen and (max-width: 960px) {
