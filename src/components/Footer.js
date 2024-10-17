@@ -72,7 +72,11 @@ function Footer() {
       <section class="social-media">
         <div class="social-media-wrap">
           <div class="footer-logo">
-            <Link to="/" className="social-logo">
+            <Link
+              to="/"
+              className="social-logo"
+              onClick={() => window.scrollTo(0, 0)}
+            >
               TRVL
               <FontAwesomeIcon icon={faTypo3} />
             </Link>
